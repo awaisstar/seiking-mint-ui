@@ -618,7 +618,7 @@ const Home = () => {
                                             {config.name}
                                         </C.TitleMobile>
                                         <C.Image>
-                                            <img src="/images/launch.png" alt="launch" />
+                                            <img src="https://i.ibb.co/sKpmt2h/spk-banner.jpg" alt="launch" />
                                         </C.Image>
                                         <C.MintInfo>
                                             <C.Price>
