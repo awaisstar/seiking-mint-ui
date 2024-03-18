@@ -1,0 +1,39 @@
+{
+    "name":"SEI PIXEL KING",
+    "description":"A collection of 1999 Kings ON SEI BLOCKCHAIN.",
+    "website":"https://x.com/sei_pixel_kings",
+    "twitter":"https://x.com/sei_pixel_kings",
+    "discord":"https://discord.com/invite/WUfSskvBEd",
+    "rpc":"https://sei-rpc.polkachu.com",
+    "network":"pacific-1", 
+    "collection_address":"sei1upuapaqthp503uhc5zj37z0hsmuqeg0sl56p00mmsakmhjp7wv6sf6yfde", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name": "OG",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge",
+                "sei1vpddux9fvfdwes2nmjdyf45vq4rv39zxrz4h7g",
+                "sei1dwqedyqx9fqmv65d34w59jsvqwg4jq27nykte",
+                "sei1ax7hhkn8ggkw2gsmy8amm3gwhessa80gjlxc6p",
+                "sei15tfw6rk895z5xtlfkya8se5a8zdwz63qj2cask"
+            ]
+        },
+        
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge",
+                "sei1vpddux9fvfdwes2nmjdyf45vq4rv39zxrz4h7g",
+                "sei1dwqedyqx9fqmv65d34w59jsvqwg4jq27nykte",
+                "sei1ax7hhkn8ggkw2gsmy8amm3gwhessa80gjlxc6p",
+                "sei15tfw6rk895z5xtlfkya8se5a8zdwz63qj2cask"
+            ]
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
